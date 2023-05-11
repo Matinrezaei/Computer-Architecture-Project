@@ -1,0 +1,3 @@
+{
+    "files": ["CMakeLists.txt","form.ui","qmlmodules","widget.py","main.qml","Mano-Simulator.qmlproject","qtquickcontrols2.conf","Mano-Simulator.qmlproject.qtds","Screen01.ui.qml"]
+}

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pictures/save.png</file>
+        <file>Pictures/compile.png</file>
+        <file>Pictures/New.png</file>
+        <file>Pictures/Next.png</file>
+        <file>Pictures/Open_Folder.png</file>
+        <file>Pictures/Reset.png</file>
+        <file>Pictures/Run.png</file>
+        <file>Pictures/exit.png</file>
+    </qresource>
+</RCC>
